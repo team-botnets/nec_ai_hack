@@ -50,7 +50,7 @@ Fiona==1.8.13
 flaky==3.6.1
 Flask==1.1.1
 Flask-API==2.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Ext==0.1
 Flask-JWT-Simple==0.0.3
 Flask-RESTful==0.3.6
