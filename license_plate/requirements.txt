@@ -118,7 +118,7 @@ mongoengine==0.18.2
 more-itertools==7.2.0
 munch==2.5.0
 murmurhash==1.0.2
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==4.4.0
 neo4j-doc-manager==1.0.0.dev11
 neobolt==1.7.15
